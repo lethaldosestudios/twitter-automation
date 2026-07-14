@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Runtime / session data (DO NOT commit — contains authenticated browser session)
+chromium/
+chromium-userdata/
+
+# Logs
+logs/
+*.log
+
+# Backups
+*.bak
+*.bak.*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
